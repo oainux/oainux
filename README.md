@@ -13,16 +13,17 @@
 </p>
 
 
-**Languages I have used**
+**Technologies I'm familiar with**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 **Projects**
 
-[![My Website](https://img.shields.io/badge/-📖&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://oainux.com/)
+[![My Website](https://img.shields.io/badge/-📖&nbsp;&nbsp;My&nbsp;Portfolio-000000?style=flat)](https://oainux.com/)
 [![Landing Page](https://img.shields.io/badge/-📰&nbsp;&nbsp;Landing&nbsp;Page-000000?style=flat)](https://grand-alpaca-63c44c.netlify.app/)
 [![To Do List App](https://img.shields.io/badge/-📝&nbsp;&nbsp;To&nbsp;Do&nbsp;List&nbsp;App-000000?style=flat)](https://oainux-todo.netlify.app/)
 
