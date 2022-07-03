@@ -1,7 +1,7 @@
 <h1 align=left">&nbsp;Hi 👋🏻. I'm Jasem</h1>
 
 **My Portfolio** <br>
-[![oainex.com](https://img.shields.io/badge/-oainux.com-000000?style=for-the-badge&logo=🧬)](https://www.oainux.com/)
+[![oainex.com](https://img.shields.io/badge/-oainux.com-000000?style=for-the-badge&logo=🧬)](https://oainux.com/)
 
 **Connect with me**
 <p align="left">
@@ -27,4 +27,4 @@
 [![To Do List App](https://img.shields.io/badge/-📝&nbsp;&nbsp;To&nbsp;Do&nbsp;List&nbsp;App-000000?style=flat)](https://oainux-todo.netlify.app/)
 
 **How to reach me** <br>
-[![oainux@outlook.com](https://img.shields.io/badge/-oainux@outlook.com-000000?style=for-the-badge&logo=🧬)](oainux@outlook.com)
+[![oainux@outlook.com](https://img.shields.io/badge/-oainux@outlook.com-000000?style=for-the-badge&logo=🧬)](mailto:oainux@outlook.com)
