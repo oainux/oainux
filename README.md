@@ -21,11 +21,12 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 
 **Projects**
 
 [![My Website](https://img.shields.io/badge/-📖&nbsp;&nbsp;My&nbsp;Portfolio-000000?style=flat)](https://oainux.com/)
-[![Landing Page](https://img.shields.io/badge/-📰&nbsp;&nbsp;Landing&nbsp;Page-000000?style=flat)](https://grand-alpaca-63c44c.netlify.app/)
+[![Landing Page](https://img.shields.io/badge/-📰&nbsp;&nbsp;Landing&nbsp;Page-000000?style=flat)](https://oainux-landing-page.netlify.app/)
 [![To Do List App](https://img.shields.io/badge/-📝&nbsp;&nbsp;To&nbsp;Do&nbsp;List&nbsp;App-000000?style=flat)](https://oainux-todo.netlify.app/)
 
 **How to reach me** <br>
