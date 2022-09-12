@@ -9,7 +9,6 @@
 <a href="https://twitter.com/oainux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oainux" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/oainux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oainux" height="20" width="30" /></a>
 <a href="https://codepen.io/oainux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oainux" height="20" width="30" /></a>
-<a href="https://hashnode.com/oainux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="oainux" height="20" width="30" /></a>
 </p>
 
 
